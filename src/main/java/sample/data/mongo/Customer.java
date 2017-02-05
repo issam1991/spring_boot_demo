@@ -16,6 +16,7 @@
 
 package sample.data.mongo;
 
+
 import org.springframework.data.annotation.Id;
 
 public class Customer {
